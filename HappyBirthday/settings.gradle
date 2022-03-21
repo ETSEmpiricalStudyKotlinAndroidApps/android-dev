@@ -1,0 +1,23 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "HappyBirthday"
+include ':app'
+include ':affirmation'
+include ':birthdaycard'
+include ':cupcake'
+include ':desertstore'
+include ':busschedule'
+include ':dicegame'
+include ':inventory'
+include ':lookup'
+include ':marsphotos'
+include ':sqlbasics'
+include ':tiptime'
+include ':unscramble'
+include ':wordlist'
+include ':workmanager'

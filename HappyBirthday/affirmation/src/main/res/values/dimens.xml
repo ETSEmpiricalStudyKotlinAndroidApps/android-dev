@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="min_text_height">48dp</dimen>
+    <dimen name="start_padding">8dp</dimen>
+
+    <!-- Bus stop list items -->
+</resources>

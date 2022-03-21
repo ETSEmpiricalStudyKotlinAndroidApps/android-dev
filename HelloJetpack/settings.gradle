@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "HelloJetpack"
+//include ':basics' // basics
+//include ':todo' // layouts
+//include ':appstate' // state
+//include ':jetnews' // theming
+//include ':animation' // animations
+//include ':rally' // navigation + testing
+//include ':accessibility' // accessibility (jetnews)
+include ':migration' // jetpack migration

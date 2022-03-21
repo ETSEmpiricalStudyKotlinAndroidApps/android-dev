@@ -1,0 +1,10 @@
+<resources>
+    <string name="cost_of_service">Enter service cost</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="excellent_20">Excellent 20%</string>
+    <string name="good_18">Good 18%</string>
+    <string name="poor_15">Poor 15%</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+</resources>
