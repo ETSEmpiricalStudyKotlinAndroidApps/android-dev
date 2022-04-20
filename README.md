@@ -1,2 +1,2 @@
-# android-store
-A repository for all Android (Java/Kotlin) application.
+# Android application development
+This repository contains apps built with old Java+XML styled imperative design (Now migrated to Kotlin). A group of apps built using modern Kotlin+XML with databinding, new viewmodels and room database + kotlin coroutines and work manager, best describes the new kotlin architectures to design fast and performant Android apps. Using Jatpack Compose, a new UI Framework by Google to built Android apps.
